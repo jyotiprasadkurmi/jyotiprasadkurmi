@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jyotiprasadkurmi/" target="blank"><img align="center" src="https://images.app.goo.gl/xTgUEPAQ2Txdrbnq7" alt="Jyoti_Prasad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyotiprasadkurmi/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Jyoti_Prasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
